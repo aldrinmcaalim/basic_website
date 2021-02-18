@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    padding: auto;
+}
+img {
+    margin-left: 5%;
+    max-width: 320px;
+}
+
+img:hover {
+    border: 1px solid rgb(0, 0, 0);
+}
