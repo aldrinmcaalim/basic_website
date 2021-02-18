@@ -6,7 +6,8 @@
 }
 
 h1 {
-    border: 2px solid red;
+    background-color: rgb(211, 202, 193);
+    text-align: center;
 }
 
 nav ul {
