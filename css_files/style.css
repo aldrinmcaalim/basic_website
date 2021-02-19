@@ -1,8 +1,14 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
 *,
 *::before,
 *::after {
     margin: 0;
     padding: 0;
+    box-sizing: inherit;
 }
 
 body {
@@ -112,18 +118,24 @@ Footer
 */
 
 footer {
-    float: left;
     background-color: rgb(221, 212, 204);
+    float: left;
     width: 100%;
 }
 
 small {
-    display: block;
     font-size: 16px;
-    justify-content: space-around;
 }
 
 small a {
     color: black;
 }
+
+/*
+==============================================================
+==============================================================
+Gallary Main Section
+==============================================================
+==============================================================
+*/
 

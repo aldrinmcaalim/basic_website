@@ -2,9 +2,17 @@ body {
     margin: auto;
     padding: auto;
 }
-img {
+
+h2.gallary {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 40px;
+}
+
+section.gallary_section img {
     margin-left: 5%;
-    max-width: 320px;
+    max-width: 300px;
+    margin-bottom: 30px;
 }
 
 img:hover {
