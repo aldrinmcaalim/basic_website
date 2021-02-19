@@ -62,6 +62,11 @@ article h2 {
     margin-bottom: 20px;
 }
 
+article a {
+    color: black;
+    text-decoration: none;
+}
+
 .card {
     background-color: rgb(221, 212, 204);
     padding:1em;
@@ -83,7 +88,7 @@ article h2 {
     margin-left: auto;
     margin-right: auto;
     margin-top: 25px;
-    padding-bottom: 35px;
+    margin-bottom: 35px;
 }
 
 .fake_image {
